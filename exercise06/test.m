@@ -1,0 +1,1 @@
+[ numCoins , numPips ] = countCoinsAndPips ( imread ('coinsandpips_1.png' ) )
